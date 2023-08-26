@@ -1,0 +1,1 @@
+Se remite a Sr(a) {{ nombre }} la disposición de presentarse en la entidad {{ entidad }} con su vehículo de placa {{ placa }} .
